@@ -37,6 +37,6 @@ describe('advanced', () => {
 
   // 6. find the median of the numbers in the array
   it('Check median', () => {
-    expect(median).toBe(3)
+    expect(median).toBe(3.5)
   })
 })
